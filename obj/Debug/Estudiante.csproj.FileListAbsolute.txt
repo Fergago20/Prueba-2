@@ -1,0 +1,10 @@
+C:\Users\labc205\Documents\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.AssemblyReference.cache
+C:\Users\labc205\Documents\Estudiante\Estudiante\obj\Debug\Estudiante.Form1.resources
+C:\Users\labc205\Documents\Estudiante\Estudiante\obj\Debug\Estudiante.Properties.Resources.resources
+C:\Users\labc205\Documents\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.GenerateResource.cache
+C:\Users\labc205\Documents\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Documents\Estudiante\Estudiante\bin\Debug\Estudiante.exe.config
+C:\Users\labc205\Documents\Estudiante\Estudiante\bin\Debug\Estudiante.exe
+C:\Users\labc205\Documents\Estudiante\Estudiante\bin\Debug\Estudiante.pdb
+C:\Users\labc205\Documents\Estudiante\Estudiante\obj\Debug\Estudiante.exe
+C:\Users\labc205\Documents\Estudiante\Estudiante\obj\Debug\Estudiante.pdb
